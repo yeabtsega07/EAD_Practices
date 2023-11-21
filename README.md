@@ -1,2 +1,2 @@
-# Employee-Management-System
-Employee Management System using Java servlets, JDBC, and Apache Tomcat.
+# EAD Practices
+Employee Management System and Calcutaor using Java servlets, JDBC, and Apache Tomcat.
